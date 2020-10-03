@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@font-face{
+	font-family:"Socialico";
+	src:url("../font/Socialico.eot") format("eot"),
+	url("../font/Socialico.woff") format("woff"),
+	url("../font/Socialico.ttf") format("truetype"),
+	url("../font/Socialico.svg#Socialico") format("svg");
+}
+@font-face{
+	font-family:"ProximaNova";
+	src:url("../font/ProximaNova-Bold.eot") format("eot"),
+	url("../font/ProximaNova-Bold.woff") format("woff"),
+	url("../font/ProximaNova-Bold.ttf") format("truetype"),
+	url("../font/ProximaNova-Bold.svg#ProximaNova-Bold") format("svg");
+}
+
+/*
+font-family: 'Roboto', sans-serif;
+*/
